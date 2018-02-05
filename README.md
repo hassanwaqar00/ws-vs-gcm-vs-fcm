@@ -1,5 +1,8 @@
 # ws_vs_gcm
 * bd
+  * fcm
+    * mobile
+    * server
   * gcm
     * mobile
     * server
@@ -10,6 +13,9 @@
     * mobile
     * server
 * ndu
+  * fcm
+    * mobile
+    * server
   * gcm
     * mobile
     * server
@@ -20,6 +26,9 @@
     * mobile
     * server
 * owd
+  * fcm
+    * mobile
+    * server
   * gcm
     * mobile
     * server
@@ -30,6 +39,9 @@
     * mobile
     * server
 * rtt
+  * fcm
+    * mobile
+    * server
   * gcm
     * mobile
     * server
